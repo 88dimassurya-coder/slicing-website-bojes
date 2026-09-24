@@ -12,12 +12,12 @@ Tampilan website dibuat responsif sehingga dapat digunakan pada laptop, tablet, 
 - **Google Fonts (Poppins)**: digunakan untuk membuat tulisan website lebih menarik.
 
 ## Struktur File
-```text
+text
 project/
 ├── index.html
 ├── script.js
 └── style.css
-```
+
 
 ### 1. `index.html`
 File ini merupakan struktur utama website.
@@ -60,22 +60,22 @@ Fitur utamanya:
 
 ### Cara 1 - Langsung di Browser
 1. Pastikan ketiga file berada dalam satu folder.
-2. Buka file `index.html`.
+2. Buka file index.html.
 3. Website akan terbuka menggunakan browser seperti Chrome atau Edge.
 
 ### Cara 2 - Menggunakan Visual Studio Code
-1. Buka **Visual Studio Code**.
-2. Pilih **File > Open Folder**.
-3. Pilih folder yang berisi `index.html`, `style.css`, dan `script.js`.
-4. Buka file `index.html`.
-5. Klik kanan pada `index.html`.
+1. Buka Visual Studio Code.
+2. Pilih File > Open Folder.
+3. Pilih folder yang berisi index.html, style.css, dan script.js.
+4. Buka file index.html.
+5. Klik kanan pada index.html.
 6. Pilih **Open with Live Server** jika ekstensi Live Server sudah terpasang.
 7. Website akan terbuka di browser.
 
 ## Alur Kerja Program
 Secara sederhana, cara kerja website adalah:
 
-```text
+
 index.html
     ↓
 Membuat struktur halaman
@@ -89,7 +89,6 @@ script.js
 Menambahkan interaksi
     ↓
 Website Portofolio
-```
 
 ## Fitur Interaktif
 Website memiliki beberapa fitur yang menggunakan JavaScript:
